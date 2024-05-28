@@ -1,0 +1,4 @@
+[submodule "admin/tool/moodle-test-plugin1"]
+	path = admin/tool/moodle-test-plugin1
+	url = https://github.com/NorbertasL/moodle-test-plugin1.git
+	branch = branch2
